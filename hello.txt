@@ -1,9 +1,5 @@
 hello git
-<<<<<<< HEAD
 hello git 1111111111111   2---->hot-fix
 hello git 222222222222222 merge test
-
-=======
-hello git 1111111111111
 hello git 33333333333333 merge test 2
->>>>>>> hot-fix
+hhhhhhhhhhhhhhh
